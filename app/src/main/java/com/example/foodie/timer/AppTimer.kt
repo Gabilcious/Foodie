@@ -3,8 +3,8 @@ package com.example.foodie.timer
 import kotlinx.coroutines.flow.Flow
 
 /**
- * AppTimer emits events in the hot flow ([AppTimer.tic]) every second from the moment [AppTimer.start]
- * is called until [AppTimer.finish] or [AppTimer.pause] is called. Each tic tells how many milliseconds
+ * AppTimer emits events in the hot flow ([tic]) every second from the moment [start]
+ * is called until [finish] or [pause] is called. Each tic tells how many milliseconds
  * has passed since the timer was first started.
  */
 interface AppTimer {
