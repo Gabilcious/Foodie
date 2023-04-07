@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Foodie</string>
+
+    <string name="info_refreshing_data">Refreshing data…</string>
+    <string name="info_sorry_no_data_to_display">Sorry, there is no data to display</string>
+    <string name="info_try_to_refresh_later">Try to refresh later</string>
+
+    <string name="content_description_foodie_logo">Foodie logo</string>
+    <string name="content_description_retry_button">Retry button</string>
+    <string name="content_description_add_to_favorites_button">Add to favorites button</string>
+    <string name="content_description_remove_from_favorites_button">Remove from favorites button</string>
+
+    <string name="error_something_went_wrong_try_again_later">Something went wrong, try again later</string>
+    <string name="error_no_restaurants_found">No restaurants found</string>
+</resources>
